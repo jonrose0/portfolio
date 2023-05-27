@@ -11,7 +11,6 @@ export const projects = [
     image: spaceImg,
     name: 'Space Tourism Site',
     languages: ['html', 'css', 'js'],
-    description: 'Uses the rel.ink api to shorten links. This project helped me get more comfortable with http request using fetch and manipulating the DOM.',
     code: 'https://github.com/jonrose0/space-tourism-website',
     project: 'https://space-tourism-website-main-ivory.vercel.app/'
   },
@@ -20,7 +19,6 @@ export const projects = [
     image: gamesImg,
     name: 'Games Web App',
     languages: ['html', 'css', 'js'],
-    description: 'Uses the rel.ink api to shorten links. This project helped me get more comfortable with http request using fetch and manipulating the DOM.',
     code: 'https://github.com/jonrose0/games',
     project: 'https://games-api-main.vercel.app/'
   },
@@ -29,7 +27,6 @@ export const projects = [
     image: manageImg,
     name: 'Manage Landing Page',
     languages: ['html', 'css', 'js'],
-    description: 'Uses the rel.ink api to shorten links. This project helped me get more comfortable with http request using fetch and manipulating the DOM.',
     code: 'https://github.com/jonrose0/manage-landing-page-main',
     project: 'https://manage-landing-page-main-zeta.vercel.app/'
   },
@@ -38,7 +35,6 @@ export const projects = [
     image: urlImg,
     name: 'Shortly Landing Page',
     languages: ['html', 'css', 'js'],
-    description: 'Uses the rel.ink api to shorten links. This project helped me get more comfortable with http request using fetch and manipulating the DOM.',
     code: 'https://github.com/jonrose0/url-shortening-api-main',
     project: 'https://url-shortening-api-main.vercel.app/'
   },
@@ -47,7 +43,6 @@ export const projects = [
     image: productImg,
     name: 'Product Page',
     languages: ['html', 'css', 'js'],
-    description: 'Uses the rel.ink api to shorten links. This project helped me get more comfortable with http request using fetch and manipulating the DOM.',
     code: 'https://github.com/jonrose0/ecommerce-product-page-main',
     project: 'https://ecommerce-product-page-main-vert.vercel.app/'
   },
@@ -56,7 +51,6 @@ export const projects = [
     image: tipImg,
     name: 'Tip Calculator',
     languages: ['html', 'css', 'js'],
-    description: 'Uses the rel.ink api to shorten links. This project helped me get more comfortable with http request using fetch and manipulating the DOM.',
     code: 'https://github.com/jonrose0/tip-calculator-app-main',
     project: 'https://tip-calculator-app-main-wine.vercel.app/'
   }
