@@ -2,7 +2,6 @@ import Header from './Header';
 import Hero from './Hero';
 import Projects from './Projects';
 import Contact from './Contact';
-import Footer from './Footer';
 
 function App() {
 	return (
@@ -13,7 +12,6 @@ function App() {
 				<Projects />
 				<Contact />
 			</main>
-			{/* <Footer /> */}
 		</div>
 	);
 }

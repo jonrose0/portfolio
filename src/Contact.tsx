@@ -33,7 +33,11 @@ function Contact() {
 		setInputs({ name: '', email: '', message: '' });
 	}
 
-	function handleInput(e) {
+	function handleInput(
+		e:
+			| React.ChangeEvent<HTMLInputElement>
+			| React.ChangeEvent<HTMLTextAreaElement>
+	) {
 		console.log(e.target, e.target.id, e.target.value);
 		if (e.target.id === 'name') {
 			setInputs({ ...inputs, name: e.target.value });
